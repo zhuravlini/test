@@ -1,3 +1,5 @@
 # Hello, world!
 
-i study in Netology
+I study in Netology
+
+git is great
